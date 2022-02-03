@@ -5,7 +5,7 @@ I'm a Full Stack Web Developer student at Trybe looking for opportunities and co
 - 🤝 I’m looking to become a Full Stack Developer.
 
 
-### 🤹 Skills
+## 🤹 Skills
 <div>
   <img height="60" src="https://cdn-icons-png.flaticon.com/512/2620/2620863.png">
   <img height="60" src="https://cdn-icons-png.flaticon.com/512/5360/5360804.png">
@@ -31,7 +31,7 @@ I'm a Full Stack Web Developer student at Trybe looking for opportunities and co
 </div>
 
 
-## ⚡ Status
+## ⚡ Stats
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=wendeldemelo&theme=dracula&show_icons=true" />
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendeldemelo&layout=compact&theme=dracula" />
