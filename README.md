@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Wendel Melo! Welcome to my Github profile. 🚀🚀🚀
+## 👋 Hi there, I'm Wendel Melo! Welcome to my Github profile.
 I'm a Full Stack Web Developer student at Trybe looking for opportunities and collabaration in big projects.
 - 🔭 I’m currently open to work.
 - 🌱 I’m currently learning back-end (Docker, SQL, Node.js, Deployment, Typescript, POO, SOLID, MongoDB).
