@@ -42,5 +42,3 @@ I'm a Full Stack Web Developer student at Trybe looking for opportunities and co
 
 
 🤝 Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${wendeldemelo}.$wendeldemelo.id})
-
-![Snake animation](https://github.com/wendeldemelo/wendeldemelo/blob/output/github-contribution-grid-snake.svg)
