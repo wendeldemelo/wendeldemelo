@@ -21,6 +21,10 @@ I'm a Full Stack Web Developer student at Trybe looking for opportunities and co
   <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
   <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
   <img height="60" src="https://user-images.githubusercontent.com/68698781/148557525-ac893d52-85e2-49a7-b7fc-8bd6c0464612.png">
+  <img height="60" src="https://user-images.githubusercontent.com/68698781/148557525-ac893d52-85e2-49a7-b7fc-8bd6c0464612.png">
+  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png">
+  
+
 </div>
 
 
