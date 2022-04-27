@@ -27,7 +27,7 @@ Font-End
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg" width="36" height="36" alt="Jest" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/R/react-router-logo-AB5BFB638F-seeklogo.com.png" width="36" height="36" alt="React Router" /></a>
 <a href="https://testing-library.com/" target="_blank" rel="noreferrer"><img src="https://testing-library.com/img/octopus-64x64.png" width="36" height="36" alt="React Testing Library" /></a>
@@ -40,7 +40,7 @@ Back-End
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://mochajs.org/" target="_blank" rel="noreferrer"><img src="https://img2.gratispng.com/20180427/ivw/kisspng-mocha-node-js-javascript-software-testing-npm-5ae37d55ae0302.6235689115248581977128.jpg" width="36" height="36" alt="Mocha" /></a>
+<a href="https://mochajs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mocha_icon_130387.png" width="36" height="36" alt="Mocha" /></a>
 <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gist/keithamus/3d8cfbaeddf8bdf5f7cd94a3bdae0934/raw/63ca295f3aa7e1b94b598d84dfe0330383497a8c/Chai%20Logo%20(C).svg" width="36" height="36" alt="Chai" /></a>
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://sequelize.org/img/logo.svg" width="36" height="36" alt="Sequelize" /></a>
 <a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="https://jwt.io/img/pic_logo.svg" width="36" height="36" alt="JWT" /></a>
